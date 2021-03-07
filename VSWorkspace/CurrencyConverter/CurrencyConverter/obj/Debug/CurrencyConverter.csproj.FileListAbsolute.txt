@@ -1,0 +1,16 @@
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.dll.config
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.dll
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.dll
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.SqlServer.dll
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.xml
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.SqlServer.xml
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Migrations.initial.resources
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Migrations.changedDbInSqlServer.resources
+E:\Side Projects\CurrencyConverter\VSWorkspace\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Migrations.seedingDb.resources
